@@ -59,7 +59,7 @@
             android:id="@+id/btnBackToMain"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Kembali ke Halaman Utama"
+            android:text="Kembali ke Daftar Wisata"
             android:textSize="18sp"
             android:padding="12dp"
             android:layout_marginTop="20dp"
