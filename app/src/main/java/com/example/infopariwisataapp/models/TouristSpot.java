@@ -3,10 +3,10 @@ package com.example.infopariwisataapp.models;
 import java.io.Serializable;
 
 public class TouristSpot implements Serializable {
-    private final String name;
-    private final String location;
-    private final String imageName;
-    private final String description;
+    private String name;
+    private String location;
+    private String imageName;
+    private String description;
 
     public TouristSpot(String name, String location, String imageName, String description) {
         this.name = name;
