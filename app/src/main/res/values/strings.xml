@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InfoPariwisataApp</string>
+    <string name="search_hint">Cari tempat wisata</string>
+    <string name="detail_title">Detail Tempat Wisata</string>
+    <string name="back_button">Kembali</string>
+    <string name="tourist_spot_description">Deskripsi lengkap tentang tempat wisata ini.</string>
+    <string name="image_thumbnail">Thumbnail gambar wisata</string>
+    <string name="info_pariwisata">Info Pariwisata</string>
+
+</resources>
