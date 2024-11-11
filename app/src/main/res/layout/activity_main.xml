@@ -16,7 +16,7 @@
         android:id="@+id/searchView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:queryHint="Cari tempat wisata" />
+        android:queryHint="Cari tempat wisata yang kamu minati" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerViewTouristSpots"
